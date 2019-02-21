@@ -384,3 +384,6 @@ leafpad '/home/pi/MagicMirror/.gitignore'
 lxterminal
 ** Message: wlan0: Received scan results
 ** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+[891:891:0220/154240.680103:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
