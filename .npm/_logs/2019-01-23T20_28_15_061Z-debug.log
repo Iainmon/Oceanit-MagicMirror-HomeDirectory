@@ -1,0 +1,14 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'start' ]
+2 info using npm@5.6.0
+3 info using node@v9.11.2
+4 verbose run-script [ 'prestart', 'start', 'poststart' ]
+5 info lifecycle magicmirror@2.5.0~prestart: magicmirror@2.5.0
+6 info lifecycle magicmirror@2.5.0~start: magicmirror@2.5.0
+7 verbose lifecycle magicmirror@2.5.0~start: unsafe-perm in lifecycle true
+8 verbose lifecycle magicmirror@2.5.0~start: PATH: /usr/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/home/pi/MagicMirror/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+9 verbose lifecycle magicmirror@2.5.0~start: CWD: /home/pi/MagicMirror
+10 silly lifecycle magicmirror@2.5.0~start: Args: [ '-c', 'sh run-start.sh' ]
+11 error cb() never called!
+12 error This is an error with npm itself. Please report this error at:
+13 error <https://github.com/npm/npm/issues>
