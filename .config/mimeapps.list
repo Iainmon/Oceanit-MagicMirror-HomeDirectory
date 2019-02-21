@@ -1,3 +1,4 @@
 [Added Associations]
 application/javascript=geany.desktop;
 application/x-shellscript=geany.desktop;
+text/plain=geany.desktop;

@@ -387,3 +387,11 @@ lxterminal
 ** Message: wlan0: Received scan results
 ** Message: wlan0: Received scan results
 [891:891:0220/154240.680103:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+geany '/home/pi/.gitconfig' 
+** Message: wlan0: Received scan results
+** Message: eth0: Link is up, configuring
+** Message: eth0: Configured 192.168.1.90/23
+** Message: wlan0: Received scan results
