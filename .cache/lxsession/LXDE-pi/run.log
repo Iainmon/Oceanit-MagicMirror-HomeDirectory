@@ -360,3 +360,27 @@ Xarchiver 0.5.4 (©)2005-2008 Giuseppe Torelli
 ** Message: wlan0: Received scan results
 lxterminal
 ** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+[891:943:0220/153013.281383:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[891:943:0220/153013.423286:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[891:943:0220/153018.038650:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[891:943:0220/153019.500774:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[891:943:0220/153022.826145:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[891:943:0220/153025.843074:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+[891:891:0220/153240.424039:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+pcmanfm 
+leafpad '/home/pi/MagicMirror/.gitignore' 
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+lxterminal
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results

@@ -209,3 +209,14 @@ ls
 mkdir .imessedup
 ls
 ls -la
+git
+git init
+git add --all
+git commit -m "init"
+git config --global user.email "notiainmoncrief@notgmail.com"
+git config --global user.name "Not Iain Moncrief"
+git commit -m "init"
+git remote add origin https://github.com/Iainmon/Oceanit-MagicMirror-HomeDirectory.git
+git push -u origin master
+cd MagicMirror/
+npm start
