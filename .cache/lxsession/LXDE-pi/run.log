@@ -395,3 +395,10 @@ geany '/home/pi/.gitconfig'
 ** Message: eth0: Link is up, configuring
 ** Message: eth0: Configured 192.168.1.90/23
 ** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+[891:2239:0220/154854.670775:ERROR:cert_verify_proc_nss.cc(944)] CERT_PKIXVerifyCert for ssl.gstatic.com failed err=-8181
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+pcmanfm 
+** Message: wlan0: Received scan results
