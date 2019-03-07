@@ -220,3 +220,26 @@ git remote add origin https://github.com/Iainmon/Oceanit-MagicMirror-HomeDirecto
 git push -u origin master
 cd MagicMirror/
 npm start
+git add --all
+git commit -m "init3"
+git push -u origin master
+git add --all
+git commit -m "init4"
+git push -u origin master
+git add --all
+git commit -m "init5"
+git push -u origin master
+git add --all
+git commit -m "init6"
+git push -u origin master
+git add --all
+git commit -m "init7"
+git push -u origin master
+tar
+cd Desktop/.imessedup/backup/
+tar -czvf MagicMirror.tar.gz ./MagicMirror
+cat /tec/issue
+cat /etc/issue
+echo "deb http://public.portalier.com raspbian/" > /etc/apt/sources.list.d/crystal.list
+git add --all
+df -Bm

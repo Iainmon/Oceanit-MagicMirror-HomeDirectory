@@ -408,3 +408,94 @@ geany '/home/pi/.gitconfig'
 ** Message: wlan0: Received scan results
 ** Message: wlan0: Received scan results
 ** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+geany '/home/pi/Desktop/.imessedup/fresh.js' 
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+lxterminal
+geany '/home/pi/Desktop/.imessedup/fresh.sh' 
+** Message: wlan0: Received scan results
+[891:2529:0306/135237.305647:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[891:2529:0306/135237.310448:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+[891:2529:0306/135409.598374:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[891:2529:0306/135409.598665:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
+** Message: wlan0: Received scan results
+[891:2529:0306/135500.207966:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[891:2529:0306/135500.208298:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
+lxterminal
+** Message: wlan0: Received scan results
+[891:2529:0306/135559.701293:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[891:2529:0306/135559.701593:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
+lxterminal
+** Message: wlan0: Received scan results
+lxterminal
+pcmanfm 
+lxterminal
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+geany '/home/pi/Desktop/.imessedup/fresh/index.js' 
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+/usr/bin/x-www-browser 
+ --disable-quic --enable-tcp-fast-open --disable-gpu-compositing --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer.so --ppapi-flash-args=enable_stagevideo_auto=0 --ppapi-flash-version=
+Fontconfig warning: "/etc/fonts/fonts.conf", line 160: blank doesn't take any effect anymore. please remove it from your fonts.conf
+[3191:3191:0306/141741.242774:ERROR:gpu_process_transport_factory.cc(1029)] Lost UI shared context.
+[3191:3229:0306/141741.646996:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+[3191:3397:0306/141741.658022:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.Notifications.GetCapabilities: object_path= /org/freedesktop/Notifications: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
+[3191:3399:0306/141745.409253:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[3191:3399:0306/141745.409570:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[3405:3405:0306/141745.681692:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+[3191:3399:0306/142242.188728:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[3191:3399:0306/142242.189018:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+lxterminal
+** Message: wlan0: Received scan results
+pcmanfm 
+** Message: wlan0: Received scan results
+lxterminal

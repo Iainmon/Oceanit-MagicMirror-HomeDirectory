@@ -3,29 +3,6 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/pi/mirror1.sh" added="2019-01-23T22:18:41Z" modified="2019-01-23T22:18:41Z" visited="2019-01-23T22:18:41Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-shellscript"/>
-        <bookmark:groups>
-          <bookmark:group>geany</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-01-23T22:18:41Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/pi/MagicMirror/modules/default/calendar/README.md" added="2019-01-24T01:21:54Z" modified="2019-01-24T01:21:54Z" visited="2019-01-24T01:21:55Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/markdown"/>
-        <bookmark:applications>
-          <bookmark:application name="LibreOffice 5.2" exec="&apos;soffice %u&apos;" modified="2019-01-24T01:21:54Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///home/pi/Desktop/.imessedup/backup/MagicMirror" added="2019-02-21T01:19:31Z" modified="2019-02-21T01:19:31Z" visited="2019-02-21T01:21:01Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -45,6 +22,45 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-02-21T01:45:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Desktop/.imessedup/fresh.js" added="2019-03-06T23:48:42Z" modified="2019-03-06T23:48:42Z" visited="2019-03-06T23:48:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-03-06T23:48:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Desktop/.imessedup/fresh.sh" added="2019-03-06T23:51:44Z" modified="2019-03-06T23:51:44Z" visited="2019-03-06T23:51:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-03-06T23:51:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/Desktop/.imessedup/fresh/index.js" added="2019-03-07T00:04:03Z" modified="2019-03-07T00:04:03Z" visited="2019-03-07T00:04:04.171774Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-03-07T00:04:03Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
