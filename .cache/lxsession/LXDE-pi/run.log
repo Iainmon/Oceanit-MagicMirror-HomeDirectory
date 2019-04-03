@@ -150,3 +150,41 @@ ATTENTION: default value of option force_s3tc_enable overridden by environment.
 [1052:1259:0403/093320.851427:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
 pcmanfm 
 geany '/home/pi/MagicMirror/config/config.js' 
+[1052:1259:0403/094154.860750:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[1052:1259:0403/094154.860935:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
+[1052:1259:0403/094327.162551:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[1052:1259:0403/094327.162695:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
+[1052:1259:0403/094354.143224:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[1052:1259:0403/094354.143362:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
+[1052:1259:0403/094501.616094:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[1052:1259:0403/094501.616306:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
+[1052:1259:0403/094522.068922:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[1052:1259:0403/094522.069168:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
+[1052:1100:0403/094630.544868:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[1052:1100:0403/094634.844691:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[1052:1100:0403/094638.343089:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[1052:1100:0403/094639.154877:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[1052:1100:0403/094653.734162:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[1052:1100:0403/094655.881829:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[1052:1100:0403/094708.278293:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+geany '/home/pi/telemetry/telemetry.json' 
+geany '/home/pi/telemetry/index.js' 
+[1052:1100:0403/094804.237014:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[1052:1100:0403/094805.620336:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[1052:1100:0403/094808.184886:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[1052:1100:0403/094811.444102:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[1052:1100:0403/094835.704259:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[1052:1100:0403/095534.273892:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[1052:1100:0403/095544.635358:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[1052:1100:0403/095550.035700:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[1052:1100:0403/095552.749570:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[1052:1100:0403/095554.955244:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+geany '/home/pi/downloadfreshcopy.sh' 
+lxterminal
+pcmanfm 
+geany '/home/pi/MagicMirror.tar.gz' 
+/usr/bin/x-www-browser 
+ --disable-quic --enable-tcp-fast-open --disable-gpu-compositing --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer.so --ppapi-flash-args=enable_stagevideo_auto=0 --ppapi-flash-version=
+Fontconfig warning: "/etc/fonts/fonts.conf", line 160: blank doesn't take any effect anymore. please remove it from your fonts.conf
+[2405:2405:0403/101000.160699:ERROR:gpu_process_transport_factory.cc(1029)] Lost UI shared context.
+Created new window in existing browser session.

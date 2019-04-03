@@ -55,6 +55,7 @@
     "time-grunt": "latest"
   },
   "dependencies": {
+    "async-threading": "^1.0.2",
     "body-parser": "^1.18.2",
     "colors": "^1.1.2",
     "electron": "^2.0.0",
@@ -65,11 +66,12 @@
     "iconv-lite": "latest",
     "mocha-logger": "^1.0.5",
     "moment": "latest",
-    "request": "^2.83.0",
+    "request": "^2.88.0",
     "rrule-alt": "^2.2.7",
     "simple-git": "^1.85.0",
     "socket.io": "^2.0.4",
     "twitter": "^1.7.1",
+    "uuid": "^3.3.2",
     "valid-url": "latest",
     "walk": "latest"
   }
