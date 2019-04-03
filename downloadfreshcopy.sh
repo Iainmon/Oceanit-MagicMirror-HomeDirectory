@@ -9,5 +9,5 @@ rm Desktop/.imessedup/backup/MagicMirror.tar.gz || echo "Backup file already del
 mv MagicMirror.tar.gz Desktop/.imessedup/backup/MagicMirror.tar.gz && echo "Good to go! Backup archive has been updated."
 
 echo "Unpacking archive..."
-cd Desktop/.imessedup/backup && tar -xzf MagicMirror.tar.gz
+cd Desktop/.imessedup/backup && tar -xvzf MagicMirror.tar.gz
 echo "All done"

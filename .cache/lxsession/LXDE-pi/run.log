@@ -201,3 +201,14 @@ geany '/home/pi/MagicMirror/js/electron.js'
 ** (lxpanel:642): WARNING **: lxpanel : X error: BadWindow (invalid Window parameter)
 lxterminal
 lxterminal
+lxterminal
+Xarchiver 0.5.4 (©)2005-2008 Giuseppe Torelli
+geany '/home/pi/downloadfreshcopy.sh' 
+lxterminal
+pcmanfm 
+
+(lxpanel:642): GLib-CRITICAL **: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+
+(lxpanel:642): GLib-CRITICAL **: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+
+(lxpanel:642): GLib-CRITICAL **: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
