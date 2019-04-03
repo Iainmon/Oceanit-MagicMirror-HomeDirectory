@@ -1,26 +1,10 @@
-2019/02/20-13:48:47.659 935 Reusing MANIFEST /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2019/02/20-13:48:47.660 935 Recovering log #8
-2019/02/20-13:48:47.804 935 Reusing old log /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000008.log 
-2019/02/20-13:58:01.269 1527 Level-0 table #12: started
-2019/02/20-13:58:01.622 1527 Level-0 table #12: 2396836 bytes OK
-2019/02/20-13:58:01.841 1527 Delete type=0 #8
-2019/02/20-14:00:01.410 1527 Level-0 table #14: started
-2019/02/20-14:00:01.675 1527 Level-0 table #14: 1724414 bytes OK
-2019/02/20-14:00:01.684 1527 Delete type=0 #11
-2019/02/20-14:14:09.818 1527 Level-0 table #16: started
-2019/02/20-14:14:10.461 1527 Level-0 table #16: 2047621 bytes OK
-2019/02/20-14:14:10.475 1527 Delete type=0 #13
-2019/02/20-14:14:10.484 1527 Compacting 4@0 + 1@1 files
-2019/02/20-14:14:10.891 1527 Generated table #17@0: 10 keys, 2275530 bytes
-2019/02/20-14:14:11.725 1527 Generated table #18@0: 11 keys, 2252141 bytes
-2019/02/20-14:14:11.817 1527 Generated table #19@0: 7 keys, 471719 bytes
-2019/02/20-14:14:11.817 1527 Compacted 4@0 + 1@1 files => 4999390 bytes
-2019/02/20-14:14:12.243 1527 compacted to: files[ 0 3 1 0 0 0 0 ]
-2019/02/20-14:14:12.244 1527 Delete type=2 #7
-2019/02/20-14:14:12.246 1527 Delete type=2 #16
-2019/02/20-14:14:12.249 1527 Delete type=2 #12
-2019/02/20-14:14:12.253 1527 Delete type=2 #9
-2019/02/20-14:14:12.255 1527 Delete type=2 #14
-2019/02/20-15:32:47.765 1527 Level-0 table #21: started
-2019/02/20-15:32:48.182 1527 Level-0 table #21: 2730308 bytes OK
-2019/02/20-15:32:48.309 1527 Delete type=0 #15
+2019/04/03-09:33:21.280 1091 Log #33: 29 ops saved to Table #35 OK
+2019/04/03-09:33:21.281 1091 Archiving /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000033.log: OK
+2019/04/03-09:33:21.318 1091 Table #32: 13 entries OK
+2019/04/03-09:33:21.496 1091 Table #34: 7 entries OK
+2019/04/03-09:33:21.660 1091 Table #31: 12 entries OK
+2019/04/03-09:33:21.817 1091 Table #5: 30 entries OK
+2019/04/03-09:33:22.010 1091 Table #30: 10 entries OK
+2019/04/03-09:33:22.063 1091 Table #35: 29 entries OK
+2019/04/03-09:33:22.064 1091 Archiving /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001: OK
+2019/04/03-09:33:22.078 1091 **** Repaired leveldb /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm; recovered 6 files; 12186232 bytes. Some data may have been lost. ****

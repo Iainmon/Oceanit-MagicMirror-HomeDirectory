@@ -86,9 +86,9 @@
 ** Message: utils.vala:89: Final file used : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
 ** Message: options.vala:164: Activate xsettings_manager build-in
 ** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
 xprop:  no such property "_NET_NUMBER_OF_DESKTOPS"
 xprop:  no such property "_NET_DESKTOP_NAMES"
-** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
 ** Message: app.vala:721: polkit separate
 ** Message: app.vala:721: polkit separate
 ** Message: app.vala:76: Launching lxpolkit 
@@ -98,16 +98,16 @@ xprop:  no such property "_NET_DESKTOP_NAMES"
 ** Message: app.vala:76: Launching lxpanel 
 ** Message: app.vala:76: Launching pcmanfm 
 
-** (lxsession:477): WARNING **: app.vala:86: Failed to execute child process "xscreensaver" (No such file or directory)
+** (lxsession:478): WARNING **: app.vala:86: Failed to execute child process "xscreensaver" (No such file or directory)
 
-** (lxsession:477): WARNING **: app.vala:87: Error when launching xscreensaver
+** (lxsession:478): WARNING **: app.vala:87: Error when launching xscreensaver
 ** Message: app.vala:76: Launching point-rpi 
 ** Message: options.vala:107: Create build-in Clipboard
 ** Message: main.vala:442: Check keymap_mode (null)
 ** Message: app.vala:76: Launching /usr/bin/ssh-agent 
-SSH_AUTH_SOCK=/tmp/ssh-XD4dbedbTEbB/agent.565; export SSH_AUTH_SOCK;
-SSH_AGENT_PID=567; export SSH_AGENT_PID;
-echo Agent pid 567;
+SSH_AUTH_SOCK=/tmp/ssh-gG7wnoxBuhQT/agent.648; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=650; export SSH_AGENT_PID;
+echo Agent pid 650;
 ** Message: app.vala:130: point-rpi exit with this type of exit: 0
 ** Message: app.vala:139: Exit normal, don't reload
 ** Message: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
@@ -117,385 +117,36 @@ Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.
 ** Message: Connecting ...
 ** Message: Status changed to down
 
-** (lxpanel:558): CRITICAL **: dhcpcd_open: Inappropriate ioctl for device
+** (lxpanel:642): CRITICAL **: dhcpcd_open: Resource temporarily unavailable
 ** Message: bt: Name org.bluez owned on DBus
 ** Message: bt: New agent manager found
 ** Message: bt: New adapter found
 ** Message: va: Name org.bluez owned on DBus
 ** Message: Status changed to opened
 ** Message: Connected to dhcpcd-6.11.5
-** Message: Status changed to connecting
-** Message: eth0: Link is down
-** Message: wlan0: Associated with oceanit-guest
+** Message: Status changed to connected
+** Message: eth0: CARRIER
+** Message: eth0: Configured 192.168.0.229/23
+** Message: wlan0: Not associated
 ** Message: wlan0: WPA status connected
 ** Message: wlan0: Received scan results
-** Message: wlan0: Configured 10.100.0.185/24
-** Message: Status changed to connected
 pcmanfm 
+geany '/home/pi/Desktop/.imessedup/backup/MagicMirror/config/config.js' 
+lxterminal
+pcmanfm 
+lxterminal
+geany '/home/pi/Desktop/.imessedup/fresh/index.js' 
+lxterminal
+pcmanfm 
+/usr/bin/x-www-browser 
+ --disable-quic --enable-tcp-fast-open --disable-gpu-compositing --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer.so --ppapi-flash-args=enable_stagevideo_auto=0 --ppapi-flash-version=
+Fontconfig warning: "/etc/fonts/fonts.conf", line 160: blank doesn't take any effect anymore. please remove it from your fonts.conf
+[1052:1052:0403/093315.573627:ERROR:gpu_process_transport_factory.cc(1029)] Lost UI shared context.
+[1052:1257:0403/093316.558900:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.Notifications.GetCapabilities: object_path= /org/freedesktop/Notifications: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
+[1052:1088:0403/093316.574339:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[1262:1262:0403/093319.116952:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
+[1052:1259:0403/093320.851193:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[1052:1259:0403/093320.851427:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
 pcmanfm 
 geany '/home/pi/MagicMirror/config/config.js' 
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-lxterminal
-** Message: wlan0: Received scan results
-lxterminal
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-/usr/bin/x-www-browser 
- --disable-quic --enable-tcp-fast-open --disable-gpu-compositing --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer.so --ppapi-flash-args=enable_stagevideo_auto=0 --ppapi-flash-version=
-Fontconfig warning: "/etc/fonts/fonts.conf", line 160: blank doesn't take any effect anymore. please remove it from your fonts.conf
-[891:891:0220/134842.565297:ERROR:gpu_process_transport_factory.cc(1029)] Lost UI shared context.
-[891:1100:0220/134843.737249:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.Notifications.GetCapabilities: object_path= /org/freedesktop/Notifications: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
-[891:932:0220/134843.750687:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
-[891:935:0220/134845.224876:ERROR:cert_verify_proc_nss.cc(944)] CERT_PKIXVerifyCert for translate.googleapis.com failed err=-8181
-ATTENTION: default value of option force_s3tc_enable overridden by environment.
-[1104:1104:0220/134845.858304:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
-[891:1255:0220/134854.079708:ERROR:cert_verify_proc_nss.cc(944)] CERT_PKIXVerifyCert for ssl.gstatic.com failed err=-8181
-** Message: wlan0: Received scan results
-[891:1255:0220/134911.733501:ERROR:cert_verify_proc_nss.cc(944)] CERT_PKIXVerifyCert for clients1.google.com failed err=-8181
-[891:943:0220/134912.174451:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[891:943:0220/134920.809860:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[891:943:0220/134923.155739:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[891:943:0220/134932.649510:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[891:943:0220/134933.299623:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[891:943:0220/134938.791097:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[891:943:0220/134939.434584:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[891:943:0220/134939.930320:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[891:934:0220/134943.167227:ERROR:cert_verify_proc_nss.cc(944)] CERT_PKIXVerifyCert for www.gstatic.com failed err=-8181
-[891:943:0220/134943.911731:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[891:891:0220/134946.683065:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 15
-[891:943:0220/134948.644514:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[891:934:0220/134956.344891:ERROR:cert_verify_proc_nss.cc(944)] CERT_PKIXVerifyCert for redirector.gvt1.com failed err=-8181
-** Message: wlan0: Received scan results
-[891:937:0220/135012.287091:ERROR:cert_verify_proc_nss.cc(944)] CERT_PKIXVerifyCert for clients4.google.com failed err=-8181
-[891:891:0220/135012.288838:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
-[891:943:0220/135032.275450:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[891:943:0220/135032.463658:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[891:891:0220/135033.663810:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
-[891:937:0220/135043.095591:ERROR:cert_verify_proc_nss.cc(944)] CERT_PKIXVerifyCert for safebrowsing.googleapis.com failed err=-8181
-** Message: wlan0: Received scan results
-[891:891:0220/135118.316474:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
-** Message: wlan0: Received scan results
-[891:891:0220/135301.115990:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
-** Message: wlan0: Received scan results
-[891:937:0220/135322.872475:ERROR:cert_verify_proc_nss.cc(944)] CERT_PKIXVerifyCert for clients2.google.com failed err=-8181
-** Message: wlan0: Received scan results
-[891:937:0220/135445.472677:ERROR:cert_verify_proc_nss.cc(944)] CERT_PKIXVerifyCert for update.googleapis.com failed err=-8181
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[891:891:0220/135639.740570:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[891:891:0220/140237.503936:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[891:891:0220/141237.855082:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[891:1561:0220/141911.843427:ERROR:cert_verify_proc_nss.cc(944)] CERT_PKIXVerifyCert for clients1.google.com failed err=-8181
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[891:1661:0220/142238.164657:ERROR:cert_verify_proc_nss.cc(944)] CERT_PKIXVerifyCert for clients4.google.com failed err=-8181
-[891:891:0220/142238.166953:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[891:891:0220/143238.469376:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[891:891:0220/144238.712565:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[891:1722:0220/144854.377670:ERROR:cert_verify_proc_nss.cc(944)] CERT_PKIXVerifyCert for ssl.gstatic.com failed err=-8181
-** Message: wlan0: Received scan results
-[891:1722:0220/144922.051849:ERROR:cert_verify_proc_nss.cc(944)] CERT_PKIXVerifyCert for clients1.google.com failed err=-8181
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[891:1749:0220/145239.037118:ERROR:cert_verify_proc_nss.cc(944)] CERT_PKIXVerifyCert for clients4.google.com failed err=-8181
-[891:891:0220/145239.039774:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[891:1749:0220/145543.512415:ERROR:cert_verify_proc_nss.cc(944)] CERT_PKIXVerifyCert for safebrowsing.googleapis.com failed err=-8181
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[891:891:0220/150239.414596:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[891:891:0220/151239.731697:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-pcmanfm 
-pcmanfm 
-Xarchiver 0.5.4 (©)2005-2008 Giuseppe Torelli
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[891:1749:0220/151940.010170:ERROR:cert_verify_proc_nss.cc(944)] CERT_PKIXVerifyCert for clients1.google.com failed err=-8181
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-
-(xarchiver:1824): Gtk-CRITICAL **: IA__gtk_widget_set_sensitive: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(xarchiver:1824): Gtk-CRITICAL **: IA__gtk_widget_set_sensitive: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(xarchiver:1824): Gtk-CRITICAL **: IA__gtk_widget_set_sensitive: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(xarchiver:1824): Gtk-CRITICAL **: IA__gtk_widget_set_sensitive: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(xarchiver:1824): Gtk-CRITICAL **: IA__gtk_widget_set_sensitive: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(xarchiver:1824): Gtk-CRITICAL **: IA__gtk_widget_set_sensitive: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(xarchiver:1824): Gtk-CRITICAL **: IA__gtk_widget_set_sensitive: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(xarchiver:1824): Gtk-CRITICAL **: IA__gtk_widget_set_sensitive: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(xarchiver:1824): Gtk-CRITICAL **: IA__gtk_widget_set_sensitive: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(xarchiver:1824): Gtk-CRITICAL **: IA__gtk_widget_set_sensitive: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(xarchiver:1824): Gtk-CRITICAL **: IA__gtk_widget_set_sensitive: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(xarchiver:1824): Gtk-CRITICAL **: IA__gtk_widget_set_sensitive: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(xarchiver:1824): Gtk-CRITICAL **: IA__gtk_widget_set_sensitive: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(xarchiver:1824): Gtk-CRITICAL **: IA__gtk_widget_set_sensitive: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(xarchiver:1824): Gtk-CRITICAL **: IA__gtk_widget_set_sensitive: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(xarchiver:1824): Gtk-CRITICAL **: IA__gtk_widget_set_sensitive: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(xarchiver:1824): Gtk-CRITICAL **: IA__gtk_widget_set_sensitive: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(xarchiver:1824): Gtk-CRITICAL **: IA__gtk_notebook_get_current_page: assertion 'GTK_IS_NOTEBOOK (notebook)' failed
-
-(xarchiver:1824): Gtk-CRITICAL **: IA__gtk_notebook_get_nth_page: assertion 'GTK_IS_NOTEBOOK (notebook)' failed
-Xarchiver 0.5.4 (©)2005-2008 Giuseppe Torelli
-** Message: wlan0: Received scan results
-Xarchiver 0.5.4 (©)2005-2008 Giuseppe Torelli
-[891:1749:0220/152240.048710:ERROR:cert_verify_proc_nss.cc(944)] CERT_PKIXVerifyCert for clients4.google.com failed err=-8181
-[891:891:0220/152240.051400:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-lxterminal
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[891:943:0220/153013.281383:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[891:943:0220/153013.423286:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[891:943:0220/153018.038650:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[891:943:0220/153019.500774:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[891:943:0220/153022.826145:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[891:943:0220/153025.843074:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[891:891:0220/153240.424039:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-pcmanfm 
-leafpad '/home/pi/MagicMirror/.gitignore' 
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-lxterminal
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[891:891:0220/154240.680103:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-geany '/home/pi/.gitconfig' 
-** Message: wlan0: Received scan results
-** Message: eth0: Link is up, configuring
-** Message: eth0: Configured 192.168.1.90/23
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[891:2239:0220/154854.670775:ERROR:cert_verify_proc_nss.cc(944)] CERT_PKIXVerifyCert for ssl.gstatic.com failed err=-8181
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-pcmanfm 
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-geany '/home/pi/.gitconfig' 
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-geany '/home/pi/Desktop/.imessedup/fresh.js' 
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-lxterminal
-geany '/home/pi/Desktop/.imessedup/fresh.sh' 
-** Message: wlan0: Received scan results
-[891:2529:0306/135237.305647:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
-[891:2529:0306/135237.310448:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[891:2529:0306/135409.598374:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
-[891:2529:0306/135409.598665:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
-** Message: wlan0: Received scan results
-[891:2529:0306/135500.207966:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
-[891:2529:0306/135500.208298:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
-lxterminal
-** Message: wlan0: Received scan results
-[891:2529:0306/135559.701293:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
-[891:2529:0306/135559.701593:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
-lxterminal
-** Message: wlan0: Received scan results
-lxterminal
-pcmanfm 
-lxterminal
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-geany '/home/pi/Desktop/.imessedup/fresh/index.js' 
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-/usr/bin/x-www-browser 
- --disable-quic --enable-tcp-fast-open --disable-gpu-compositing --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer.so --ppapi-flash-args=enable_stagevideo_auto=0 --ppapi-flash-version=
-Fontconfig warning: "/etc/fonts/fonts.conf", line 160: blank doesn't take any effect anymore. please remove it from your fonts.conf
-[3191:3191:0306/141741.242774:ERROR:gpu_process_transport_factory.cc(1029)] Lost UI shared context.
-[3191:3229:0306/141741.646996:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
-[3191:3397:0306/141741.658022:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.Notifications.GetCapabilities: object_path= /org/freedesktop/Notifications: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
-[3191:3399:0306/141745.409253:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
-[3191:3399:0306/141745.409570:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
-ATTENTION: default value of option force_s3tc_enable overridden by environment.
-[3405:3405:0306/141745.681692:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[3191:3399:0306/142242.188728:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
-[3191:3399:0306/142242.189018:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-lxterminal
-** Message: wlan0: Received scan results
-pcmanfm 
-** Message: wlan0: Received scan results
-lxterminal

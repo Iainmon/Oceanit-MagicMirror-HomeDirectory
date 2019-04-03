@@ -243,3 +243,22 @@ cat /etc/issue
 echo "deb http://public.portalier.com raspbian/" > /etc/apt/sources.list.d/crystal.list
 git add --all
 df -Bm
+sh mirror1.sh 
+ls
+git pull
+git reset --hard
+git pull
+sh mirror1.sh 
+cd MagicMirror/
+npm install
+cd MagicMirror/
+ls
+npm i async-threading
+npm install request
+npm install uuid
+npm start
+node Desktop/.imessedup/fresh/index.js
+rm -rf MagicMirror/
+cp -a Desktop/.imessedup/backup/MagicMirror .
+cd MagicMirror/
+npm start

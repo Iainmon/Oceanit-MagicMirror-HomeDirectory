@@ -13,18 +13,20 @@ const exec = (input) => {
 
 function run() {
 	print('Deleting MagicMirror...');
+	exec('rm -rf MagicMirror');
 	log('MagicMirror deleted!');
 	
-	exec('echo 1');
 	
-	print('Deleting MagicMirror...');
-	log('MagicMirror deleted!');
+	print('Restoring MagicMirror...');
+	exec('cp -a Desktop/.imessedup/backup/MagicMirror ./');
+	log('MagicMirror restored!');
 	
-	print('Deleting MagicMirror...');
-	log('MagicMirror deleted!');
+	print('Installing Dependencies MagicMirror...');
+	exec('cd MagicMirror && npm install');
+	log('MagicMirror dependencies installed!');
 	
-	print('Deleting MagicMirror...');
-	log('MagicMirror deleted!');
+	print('You are all set!');
+	log('NOTE: if after a restart, it still does not boot after a few minutes, then you will need to do a hard reset.');
 }
 
 // Runs program, but asks the user if they would like to continue...
