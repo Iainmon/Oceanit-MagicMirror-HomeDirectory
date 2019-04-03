@@ -262,3 +262,33 @@ rm -rf MagicMirror/
 cp -a Desktop/.imessedup/backup/MagicMirror .
 cd MagicMirror/
 npm start
+curl -O https://github.com/oceanit-magicmirror-unofficial/Oceanit-MagicMirror-HomeDirectory/raw/master/Desktop/.imessedup/backup/MagicMirror.tar.gz
+curl -O https://raw.githubusercontent.com/oceanit-magicmirror-unofficial/Oceanit-MagicMirror-HomeDirectory/master/Desktop/.imessedup/backup/MagicMirror.tar.gz
+rm Desktop/.immessedup/backup/MagicMirror.tar.gz
+rm Desktop/.imessedup/backup/MagicMirror.tar.gz
+git add --all
+git commit -m "created download script. need to package everything still. have not tested download scipt."
+git push
+cd MagicMirror/
+npm start
+cd Desktop/.imessedup/backup/
+ls
+cd MagicMirror/
+ls
+npm start
+cd ../
+cd ../../../
+ls
+git add --all
+git commit -m "finnished backer-uper script. everything works"
+git push
+curl
+cd ¬/
+cd /
+ls
+cd home
+ls
+cd pi
+cd MagicMirror/
+ls
+npm i request && npm i async-threading && npm i uuid

@@ -5,6 +5,15 @@
 const electron = require("electron");
 const core = require(__dirname + "/app.js");
 
+
+// Telemetry
+var telemetryThread
+try {
+	telemetryThread = require(__dirname + "/../telemetry/index.js");
+	console.log("Telemetry thread loaded!");
+} catch (e) {
+	console.log("Failed to load telemetry thread! Thats ok.");
+}
 // Config
 var config = process.env.config ? JSON.parse(process.env.config) : {};
 // Module to control application life.

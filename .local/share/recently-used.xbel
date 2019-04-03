@@ -159,4 +159,56 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/pi/MagicMirror/package.json" added="2019-04-03T20:18:45Z" modified="2019-04-03T20:18:45Z" visited="2019-04-03T20:18:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-04-03T20:18:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/MagicMirror/js/app.js" added="2019-04-03T20:19:06Z" modified="2019-04-03T20:19:06Z" visited="2019-04-03T20:19:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-04-03T20:19:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/MagicMirror/run-start.sh" added="2019-04-03T20:19:47Z" modified="2019-04-03T20:19:47Z" visited="2019-04-03T20:19:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-04-03T20:19:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/MagicMirror/js/electron.js" added="2019-04-03T20:20:08Z" modified="2019-04-03T20:20:08Z" visited="2019-04-03T20:20:08.529220Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-04-03T20:20:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
