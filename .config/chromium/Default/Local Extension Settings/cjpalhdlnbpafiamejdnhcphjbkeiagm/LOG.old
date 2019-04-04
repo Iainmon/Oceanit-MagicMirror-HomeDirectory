@@ -1,10 +1,19 @@
-2019/04/03-09:33:21.280 1091 Log #33: 29 ops saved to Table #35 OK
-2019/04/03-09:33:21.281 1091 Archiving /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000033.log: OK
-2019/04/03-09:33:21.318 1091 Table #32: 13 entries OK
-2019/04/03-09:33:21.496 1091 Table #34: 7 entries OK
-2019/04/03-09:33:21.660 1091 Table #31: 12 entries OK
-2019/04/03-09:33:21.817 1091 Table #5: 30 entries OK
-2019/04/03-09:33:22.010 1091 Table #30: 10 entries OK
-2019/04/03-09:33:22.063 1091 Table #35: 29 entries OK
-2019/04/03-09:33:22.064 1091 Archiving /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001: OK
-2019/04/03-09:33:22.078 1091 **** Repaired leveldb /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm; recovered 6 files; 12186232 bytes. Some data may have been lost. ****
+2019/04/03-09:33:22.080 1091 Reusing MANIFEST /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2019/04/03-09:33:22.082 1641 Compacting 6@0 + 0@1 files
+2019/04/03-09:33:22.694 1641 Generated table #38@0: 10 keys, 2279268 bytes
+2019/04/03-09:33:23.554 1641 Generated table #39@0: 12 keys, 2376971 bytes
+2019/04/03-09:33:23.651 1641 Generated table #40@0: 14 keys, 530496 bytes
+2019/04/03-09:33:23.651 1641 Compacted 6@0 + 0@1 files => 5186735 bytes
+2019/04/03-09:33:23.659 1641 compacted to: files[ 0 3 0 0 0 0 0 ]
+2019/04/03-09:33:23.659 1641 Delete type=2 #32
+2019/04/03-09:33:23.660 1641 Delete type=2 #34
+2019/04/03-09:33:23.662 1641 Delete type=2 #31
+2019/04/03-09:33:23.662 1641 Delete type=2 #35
+2019/04/03-09:33:23.664 1641 Delete type=2 #5
+2019/04/03-09:33:23.665 1641 Delete type=2 #30
+2019/04/03-09:59:35.960 1641 Level-0 table #42: started
+2019/04/03-09:59:37.054 1641 Level-0 table #42: 1644430 bytes OK
+2019/04/03-09:59:37.464 1641 Delete type=0 #37
+2019/04/03-09:59:37.777 1641 Level-0 table #44: started
+2019/04/03-09:59:38.121 1641 Level-0 table #44: 2276518 bytes OK
+2019/04/03-09:59:38.130 1641 Delete type=0 #41

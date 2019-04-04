@@ -308,3 +308,6 @@ rm -rf Desktop/.imessedup/backup/MagicMirror || echo "Backup folder already dele
 cd Desktop/.imessedup/backup && tar -xzf MagicMirror.tar.gz
 cd MagicMirror/
 ls
+git add --all
+git commit -m "removed gitignore's"
+git push

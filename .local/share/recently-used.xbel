@@ -224,4 +224,17 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/pi/MagicMirror/telemetry/index.js" added="2019-04-04T01:47:50Z" modified="2019-04-04T01:47:50Z" visited="2019-04-04T01:47:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-04-04T01:47:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

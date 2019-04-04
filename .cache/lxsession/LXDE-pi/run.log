@@ -98,16 +98,16 @@ xprop:  no such property "_NET_DESKTOP_NAMES"
 ** Message: app.vala:76: Launching lxpanel 
 ** Message: app.vala:76: Launching pcmanfm 
 
-** (lxsession:481): WARNING **: app.vala:86: Failed to execute child process "xscreensaver" (No such file or directory)
+** (lxsession:476): WARNING **: app.vala:86: Failed to execute child process "xscreensaver" (No such file or directory)
 
-** (lxsession:481): WARNING **: app.vala:87: Error when launching xscreensaver
+** (lxsession:476): WARNING **: app.vala:87: Error when launching xscreensaver
 ** Message: app.vala:76: Launching point-rpi 
 ** Message: options.vala:107: Create build-in Clipboard
 ** Message: main.vala:442: Check keymap_mode (null)
 ** Message: app.vala:76: Launching /usr/bin/ssh-agent 
-SSH_AUTH_SOCK=/tmp/ssh-WiKy2FFKU2zB/agent.695; export SSH_AUTH_SOCK;
-SSH_AGENT_PID=697; export SSH_AGENT_PID;
-echo Agent pid 697;
+SSH_AUTH_SOCK=/tmp/ssh-rQH6YETTtsd4/agent.637; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=639; export SSH_AGENT_PID;
+echo Agent pid 639;
 ** Message: app.vala:130: point-rpi exit with this type of exit: 0
 ** Message: app.vala:139: Exit normal, don't reload
 ** Message: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
@@ -117,7 +117,7 @@ Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.
 ** Message: Connecting ...
 ** Message: Status changed to down
 
-** (lxpanel:678): CRITICAL **: dhcpcd_open: Inappropriate ioctl for device
+** (lxpanel:631): CRITICAL **: dhcpcd_open: Resource temporarily unavailable
 ** Message: bt: Name org.bluez owned on DBus
 ** Message: bt: New agent manager found
 ** Message: bt: New adapter found
@@ -131,8 +131,23 @@ Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.
 ** Message: wlan0: WPA status connected
 ** Message: wlan0: Received scan results
 pcmanfm 
-geany '/home/pi/MagicMirror/config/.gitignore' 
-geany '/home/pi/MagicMirror/config/config.js' 
+/usr/bin/x-www-browser 
+ --disable-quic --enable-tcp-fast-open --disable-gpu-compositing --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer.so --ppapi-flash-args=enable_stagevideo_auto=0 --ppapi-flash-version=
+Fontconfig warning: "/etc/fonts/fonts.conf", line 160: blank doesn't take any effect anymore. please remove it from your fonts.conf
+[855:855:0403/154552.455715:ERROR:gpu_process_transport_factory.cc(1029)] Lost UI shared context.
+[855:1065:0403/154553.533227:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.Notifications.GetCapabilities: object_path= /org/freedesktop/Notifications: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
+[855:896:0403/154553.548917:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[1070:1070:0403/154555.939932:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
+[855:1067:0403/154558.595458:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
+[855:1067:0403/154558.595634:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
+[855:908:0403/154607.897632:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[855:908:0403/154612.440135:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[855:908:0403/154631.847263:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[855:908:0403/154640.105393:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[855:908:0403/154641.571504:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[855:908:0403/154645.556534:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[855:908:0403/154651.321051:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+pcmanfm 
 lxterminal
-
-** (lxpanel:678): WARNING **: lxpanel : X error: BadWindow (invalid Window parameter)
+geany '/home/pi/MagicMirror/telemetry/index.js' 
