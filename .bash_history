@@ -292,3 +292,19 @@ cd pi
 cd MagicMirror/
 ls
 npm i request && npm i async-threading && npm i uuid
+git add --all
+git commit -m "implemented telemetry. need to package it into backup archive."
+git push
+git add --all
+git commit -m "implemented and packaged magic mirror with telemetry."
+git push
+sudo
+sudo sh
+tar -xzf
+tar -zcvf MagicMirror.tar.gz MagicMirror
+rm Desktop/.imessedup/backup/MagicMirror.tar.gz || echo "Backup file already deleted. OK!"
+mv MagicMirror.tar.gz Desktop/.imessedup/backup/MagicMirror.tar.gz && echo "Good to go! Backup archive has been updated."
+rm -rf Desktop/.imessedup/backup/MagicMirror || echo "Backup folder already deleted. OK!"
+cd Desktop/.imessedup/backup && tar -xzf MagicMirror.tar.gz
+cd MagicMirror/
+ls

@@ -98,16 +98,16 @@ xprop:  no such property "_NET_DESKTOP_NAMES"
 ** Message: app.vala:76: Launching lxpanel 
 ** Message: app.vala:76: Launching pcmanfm 
 
-** (lxsession:478): WARNING **: app.vala:86: Failed to execute child process "xscreensaver" (No such file or directory)
+** (lxsession:481): WARNING **: app.vala:86: Failed to execute child process "xscreensaver" (No such file or directory)
 
-** (lxsession:478): WARNING **: app.vala:87: Error when launching xscreensaver
+** (lxsession:481): WARNING **: app.vala:87: Error when launching xscreensaver
 ** Message: app.vala:76: Launching point-rpi 
 ** Message: options.vala:107: Create build-in Clipboard
 ** Message: main.vala:442: Check keymap_mode (null)
 ** Message: app.vala:76: Launching /usr/bin/ssh-agent 
-SSH_AUTH_SOCK=/tmp/ssh-gG7wnoxBuhQT/agent.648; export SSH_AUTH_SOCK;
-SSH_AGENT_PID=650; export SSH_AGENT_PID;
-echo Agent pid 650;
+SSH_AUTH_SOCK=/tmp/ssh-WiKy2FFKU2zB/agent.695; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=697; export SSH_AGENT_PID;
+echo Agent pid 697;
 ** Message: app.vala:130: point-rpi exit with this type of exit: 0
 ** Message: app.vala:139: Exit normal, don't reload
 ** Message: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
@@ -117,7 +117,7 @@ Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.
 ** Message: Connecting ...
 ** Message: Status changed to down
 
-** (lxpanel:642): CRITICAL **: dhcpcd_open: Resource temporarily unavailable
+** (lxpanel:678): CRITICAL **: dhcpcd_open: Inappropriate ioctl for device
 ** Message: bt: Name org.bluez owned on DBus
 ** Message: bt: New agent manager found
 ** Message: bt: New adapter found
@@ -131,84 +131,8 @@ Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.
 ** Message: wlan0: WPA status connected
 ** Message: wlan0: Received scan results
 pcmanfm 
-geany '/home/pi/Desktop/.imessedup/backup/MagicMirror/config/config.js' 
-lxterminal
-pcmanfm 
-lxterminal
-geany '/home/pi/Desktop/.imessedup/fresh/index.js' 
-lxterminal
-pcmanfm 
-/usr/bin/x-www-browser 
- --disable-quic --enable-tcp-fast-open --disable-gpu-compositing --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer.so --ppapi-flash-args=enable_stagevideo_auto=0 --ppapi-flash-version=
-Fontconfig warning: "/etc/fonts/fonts.conf", line 160: blank doesn't take any effect anymore. please remove it from your fonts.conf
-[1052:1052:0403/093315.573627:ERROR:gpu_process_transport_factory.cc(1029)] Lost UI shared context.
-[1052:1257:0403/093316.558900:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.Notifications.GetCapabilities: object_path= /org/freedesktop/Notifications: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
-[1052:1088:0403/093316.574339:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
-ATTENTION: default value of option force_s3tc_enable overridden by environment.
-[1262:1262:0403/093319.116952:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
-[1052:1259:0403/093320.851193:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
-[1052:1259:0403/093320.851427:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
-pcmanfm 
+geany '/home/pi/MagicMirror/config/.gitignore' 
 geany '/home/pi/MagicMirror/config/config.js' 
-[1052:1259:0403/094154.860750:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
-[1052:1259:0403/094154.860935:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
-[1052:1259:0403/094327.162551:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
-[1052:1259:0403/094327.162695:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
-[1052:1259:0403/094354.143224:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
-[1052:1259:0403/094354.143362:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
-[1052:1259:0403/094501.616094:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
-[1052:1259:0403/094501.616306:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
-[1052:1259:0403/094522.068922:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.NetworkManager.GetDevices: object_path= /org/freedesktop/NetworkManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.NetworkManager was not provided by any .service files
-[1052:1259:0403/094522.069168:ERROR:networking_private_linux.cc(733)] Failed to enumerate network devices
-[1052:1100:0403/094630.544868:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[1052:1100:0403/094634.844691:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[1052:1100:0403/094638.343089:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[1052:1100:0403/094639.154877:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[1052:1100:0403/094653.734162:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[1052:1100:0403/094655.881829:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[1052:1100:0403/094708.278293:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-geany '/home/pi/telemetry/telemetry.json' 
-geany '/home/pi/telemetry/index.js' 
-[1052:1100:0403/094804.237014:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[1052:1100:0403/094805.620336:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[1052:1100:0403/094808.184886:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[1052:1100:0403/094811.444102:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[1052:1100:0403/094835.704259:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[1052:1100:0403/095534.273892:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[1052:1100:0403/095544.635358:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[1052:1100:0403/095550.035700:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[1052:1100:0403/095552.749570:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-[1052:1100:0403/095554.955244:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
-geany '/home/pi/downloadfreshcopy.sh' 
 lxterminal
-pcmanfm 
-geany '/home/pi/MagicMirror.tar.gz' 
-/usr/bin/x-www-browser 
- --disable-quic --enable-tcp-fast-open --disable-gpu-compositing --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer.so --ppapi-flash-args=enable_stagevideo_auto=0 --ppapi-flash-version=
-Fontconfig warning: "/etc/fonts/fonts.conf", line 160: blank doesn't take any effect anymore. please remove it from your fonts.conf
-[2405:2405:0403/101000.160699:ERROR:gpu_process_transport_factory.cc(1029)] Lost UI shared context.
-Created new window in existing browser session.
-chromium-browser 'file:///home/pi/MagicMirror/index.html' 
- --disable-quic --enable-tcp-fast-open --disable-gpu-compositing --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer.so --ppapi-flash-args=enable_stagevideo_auto=0 --ppapi-flash-version=
-Fontconfig warning: "/etc/fonts/fonts.conf", line 160: blank doesn't take any effect anymore. please remove it from your fonts.conf
-[2733:2733:0403/101831.199975:ERROR:gpu_process_transport_factory.cc(1029)] Lost UI shared context.
-Created new window in existing browser session.
-geany '/home/pi/MagicMirror/package.json' 
-geany '/home/pi/MagicMirror/js/app.js' 
-geany '/home/pi/MagicMirror/run-start.sh' 
-geany '/home/pi/MagicMirror/js/electron.js' 
 
-** (lxpanel:642): WARNING **: lxpanel : X error: BadWindow (invalid Window parameter)
-lxterminal
-lxterminal
-lxterminal
-Xarchiver 0.5.4 (©)2005-2008 Giuseppe Torelli
-geany '/home/pi/downloadfreshcopy.sh' 
-lxterminal
-pcmanfm 
-
-(lxpanel:642): GLib-CRITICAL **: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
-
-(lxpanel:642): GLib-CRITICAL **: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
-
-(lxpanel:642): GLib-CRITICAL **: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+** (lxpanel:678): WARNING **: lxpanel : X error: BadWindow (invalid Window parameter)
