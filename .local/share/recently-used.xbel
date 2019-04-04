@@ -237,4 +237,17 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/pi/Desktop/About.txt" added="2019-04-04T02:04:31Z" modified="2019-04-04T02:04:31Z" visited="2019-04-04T02:04:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2019-04-04T02:04:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

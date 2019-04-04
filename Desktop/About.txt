@@ -1,0 +1,11 @@
+My name is Iain Moncrief, and on April 3rd, I am a junior at Assets High School.
+This was my main project while interning at Oceanit Inc.
+Every four hours, there is a script that sends telemetry to a server, where it is saved.
+If you whish to opt-out of this analytics service I wrote, delete the folder '/home/pi/MagicMirror/telemetry'.
+This may crash the Magic Mirror program from starting up, but who really knows.
+
+If there are any bugs with this software, please contact me. I did not create the Magic Mirror software, but I do know how to fix it.
+My email is <iainmoncrief@gmail.com>.
+Please keep in mind, I can not help you if you install a third-party module.
+
+My github account is https://github.com/iainmon    in case you would like to look at some of my projects.

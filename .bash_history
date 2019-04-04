@@ -311,3 +311,26 @@ ls
 git add --all
 git commit -m "removed gitignore's"
 git push
+cd MagicMirror/
+npm start
+cd ../
+git add --all
+git commit -m "added new telemetry"
+git push
+tar -czvf MagicMirror.tar.gz MagicMirror
+ls
+rm Desktop/.imessedup/backup/MagicMirror.tar.gz 
+mv MagicMirror.tar.gz Desktop/.imessedup/backup/MagicMirror.tar.gz
+rm -rf Desktop/.imessedup/backup/MagicMirror
+cd Desktop/.imessedup/backup/
+tar -xzvf MagicMirror.tar.gz 
+cd /home/pi
+tar -czvf MagicMirror.tar.gz MagicMirror
+rm Desktop/.imessedup/backup/MagicMirror.tar.gz 
+rm -rf Desktop/.imessedup/backup/MagicMirror
+mv MagicMirror.tar.gz Desktop/.imessedup/backup/MagicMirror.tar.gz
+cd Desktop/.imessedup/backup/
+tar -xzvf MagicMirror.tar.gz 
+cd /home/pi
+cd MagicMirror
+npm start
